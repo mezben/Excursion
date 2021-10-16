@@ -1,0 +1,45 @@
+header h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    font-weight: normal;
+    color: white;
+    text-align: center;
+}
+a[href^="#"] {
+    color: aquamarine;
+    font-size: 16px;
+   
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+    background-color: black;
+    text-align: center;
+}
+h1 {
+    font-size: 42px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    color: white;
+}
+p {
+    font-size: 21px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:gray;
+}
+#lands {
+    margin: auto;
+    display: block;
+    margin-bottom: 25px;
+}
+#cel {
+    margin:auto;
+    display: block;
+}
+footer p{
+    color:gray;
+    font-size: 18px;
+    text-align: right;
+}
+video {
+    margin-top: 15px;
+}
